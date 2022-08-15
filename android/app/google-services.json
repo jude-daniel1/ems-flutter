@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943219079023",
+    "project_id": "emanagement-55837",
+    "storage_bucket": "emanagement-55837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943219079023:android:20b9b4c8021122165eda9a",
+        "android_client_info": {
+          "package_name": "com.jude.task_managment_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943219079023-05j1e1ka9t2c80nfco0i8e9vl1073gch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jude.task_managment_flutter",
+            "certificate_hash": "f4e329cca5c2d13e75a7721d18ee1d45c3761d72"
+          }
+        },
+        {
+          "client_id": "943219079023-rt1v9ahfmt0uv4jf1n8bljtf8ds2r5id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgBWiA4XLYge3zklV5Getq7nvuOc-wFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943219079023-rt1v9ahfmt0uv4jf1n8bljtf8ds2r5id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
